@@ -1,2 +1,0 @@
-# INF368
-Exercises
